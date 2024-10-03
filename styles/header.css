@@ -54,7 +54,7 @@
   width: 0;
 }
 .Search::placeholder {
-  font-family: Roboto, Arial;
+  /* font-family: Roboto, Arial; */
   font-size: 16px;
 }
 .search-button {
@@ -80,7 +80,7 @@
 .upload-icon-container .tooltip,
 .youtube-icon-container .tooltip,
 .notofication .tooltip {
-  font-family: roboto, arial;
+  /* font-family: roboto, arial; */
   position: absolute;
   background-color: gray;
   color: white;
@@ -137,7 +137,7 @@
   right: -5px;
   background-color: rgb(203, 1, 1);
   color: white;
-  font-family: roboto, arial;
+  /* font-family: roboto, arial; */
   font-size: 11px;
   padding: 2px 5px;
   border-radius: 10px;
